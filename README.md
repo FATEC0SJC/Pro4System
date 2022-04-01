@@ -64,6 +64,23 @@ Este sistema é voltado para desktop. </p>
  #### :white_large_square: Feira de Soluções - 15/06/2022
  
  
+ # :bulb: Backlog
+ 
+<div align = "center"> 
+<img src = "https://user-images.githubusercontent.com/90328117/161347535-89d1b038-6435-4d3c-b155-bfbb964a7ce0.jpeg">
+</div>
+
+# 🎓 Equipe
+
+|        Nome         |       Função        |     GitHub                                               |    Avatar                                          |
+| ------------------- | ------------------- | -------------------                                      | -------------------                                |
+|  William Claudimar  |  Scrum Master       | <a href="https://github.com/William2819"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                         | <img src="https://user-images.githubusercontent.com/90328117/161353752-d288d41b-e36b-4bb4-9edc-55b23d10067e.png" style="width:50px;height:50px;">                                                   | 
+| Barbara Sant'Ana    | Product Owner       |                                                          |                                                    |
+|  Rodrigo Goulart    |  Desenvolvedor      |<a href="https://github.com/RodrigoDGoulart"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                                            |<img src="https://user-images.githubusercontent.com/90328117/161354565-ec25a1b6-89de-41de-bc63-30ea40873642.png" style="width:50px;height:50px;">                                                     |
+|  Vitor landim       |  Desenvolvedor      ||<a href="https://github.com/Rotiv03"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |                       <img src="![image](https://user-images.githubusercontent.com/90328117/161354783-566b48cc-9f3b-40e0-9fff-edccd3f9fabe.png)" style="width:50px;height:50px;">                             |
+| ------------------- | ------------------- |                                                          |                                                    |
+|  Wallace Marinho    |  Desenvolvedor      |                                                          |                                                    |
+| ------------------- | ------------------- |                                                          |                                                    |
  
  
 
