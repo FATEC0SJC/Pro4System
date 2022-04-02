@@ -17,7 +17,7 @@ style="width:400px;height:50px;">
 
 <div align="center">
  
-[O Projeto](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#dart-o-projeto) • [Proposta](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#clipboard-proposta) • [Planejamento](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#-planejamento-de-entregas) • [Cards](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#%EF%B8%8F-cards-das-sprints) • [Metodologia](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#rocket-metodologia-utilizada) • [Tecnologia](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#computer-tecnologias-utilizadas) • [Backlog](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#bulb-backlog) • [Equipe](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#-equipe)
+[O Projeto](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#dart-o-projeto) • [Proposta](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#clipboard-proposta) • [Planejamento](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#-planejamento-de-entregas) • [Cards](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#%EF%B8%8F-cards-das-sprints) • [Metodologia](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#rocket-metodologia-utilizada) • [Tecnologia](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#computer-tecnologias-utilizadas) • [Backlog](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#bulb-backlog) • [Equipe](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#-equipe)
 </div>
 
 <div align = "center"> 
