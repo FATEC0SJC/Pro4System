@@ -17,7 +17,7 @@ style="width:400px;height:50px;">
 
 <div align="center">
  
-[O Projeto](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#dart-o-projeto) • [Proposta](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#clipboard-proposta)
+[O Projeto](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#dart-o-projeto) • [Proposta](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#clipboard-proposta) • [Planejamento](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#-planejamento-de-entregas) • [Cards](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#%EF%B8%8F-cards-das-sprints) • [Metodologia](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#rocket-metodologia-utilizada) • [Tecnologia](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#computer-tecnologias-utilizadas) • [Backlog](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#bulb-backlog) • [Equipe](https://github.com/FATEC0SJC/Pro4System/edit/Sprints/README.md#-equipe)
 </div>
 
 <div align = "center"> 
@@ -63,6 +63,18 @@ Este sistema é voltado para desktop. </p>
  
  #### :white_large_square: Feira de Soluções - 15/06/2022
  
+ # 🗂️ Cards das Sprints
+ 
+ # :rocket: Metodologia Utilizada
+ 
+ • Metodologia ágil: Framework [Scrum](https://blog.geekhunter.com.br/framework-scrum-voce-esta-usando-corretamente/)
+ 
+# :computer: Tecnologias Utilizadas
+
+#### • Banco de Dados: MySQL
+#### • Back-end: Java   
+#### • Front-end: Java
+#### • Ferramentas Usadas: MySQL Workbench, Apache NetBeans, GitHub, Drwa.io
  
  # :bulb: Backlog
  
@@ -77,10 +89,15 @@ Este sistema é voltado para desktop. </p>
 |  William Claudimar  |  Scrum Master       | <a href="https://github.com/William2819"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                         | <img src="https://user-images.githubusercontent.com/90328117/161353752-d288d41b-e36b-4bb4-9edc-55b23d10067e.png" style="width:50px;height:50px;">                                                   | 
 | Barbara Sant'Ana    | Product Owner       |                                                          |                                                    |
 |  Rodrigo Goulart    |  Desenvolvedor      |<a href="https://github.com/RodrigoDGoulart"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                                            |<img src="https://user-images.githubusercontent.com/90328117/161354565-ec25a1b6-89de-41de-bc63-30ea40873642.png" style="width:50px;height:50px;">                                                     |
-|  Vitor landim       |  Desenvolvedor      ||<a href="https://github.com/Rotiv03"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |                       <img src="![image](https://user-images.githubusercontent.com/90328117/161354783-566b48cc-9f3b-40e0-9fff-edccd3f9fabe.png)" style="width:50px;height:50px;">                             |
-| ------------------- | ------------------- |                                                          |                                                    |
-|  Wallace Marinho    |  Desenvolvedor      |                                                          |                                                    |
-| ------------------- | ------------------- |                                                          |                                                    |
+|  Vitor landim       |  Desenvolvedor      |<a href="https://github.com/Rotiv03"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |                       <img src="https://user-images.githubusercontent.com/90328117/161354783-566b48cc-9f3b-40e0-9fff-edccd3f9fabe.png" style="width:50px;height:50px;">                             |
+|  Wallace Marinho    |  Desenvolvedor      |<a href="https://github.com/WallaceMarinho"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |           <img src="https://user-images.githubusercontent.com/90328117/161355071-f46bfe3f-08f6-4de4-815e-36c2361c60be.png" style="width:50px;height:50px;">                                         |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/90328117/161355339-d016f60b-e185-49da-a5de-6c21f1965449.png" style="width:300px;height:100px;">
+	</div>
+
  
  
 
