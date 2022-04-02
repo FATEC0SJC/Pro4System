@@ -75,6 +75,10 @@ Este sistema é voltado para desktop. </p>
 #### • Back-end: Java   
 #### • Front-end: Java
 #### • Ferramentas Usadas: MySQL Workbench, Apache NetBeans, GitHub, Drwa.io
+
+# :page_facing_up: Licença MIT
+
+Este projeto está sob a licença MIT - veja o arquivo [Licença](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/LICENSE) para mais detalhes.
  
  # :bulb: Backlog
  
