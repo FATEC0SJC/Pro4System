@@ -65,6 +65,11 @@ Este sistema é voltado para desktop. </p>
  
  # 🗂️ Cards das Sprints
  
+ <div align = "left">
+<img src = "https://user-images.githubusercontent.com/90328117/162206714-afa69662-60d4-4630-9331-5331447b0d57.jpg"
+ style="width:300px;height:200px;">
+</div>
+ 
  # :rocket: Metodologia Utilizada
  
  • Metodologia ágil: Framework [Scrum](https://blog.geekhunter.com.br/framework-scrum-voce-esta-usando-corretamente/)
