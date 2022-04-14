@@ -65,10 +65,9 @@ Este sistema é voltado para desktop. </p>
  
  # 🗂️ Cards das Sprints
  
- <div align = "left">
-<img src = "https://user-images.githubusercontent.com/90328117/162206714-afa69662-60d4-4630-9331-5331447b0d57.jpg"
- style="width:300px;height:200px;">
-</div>
+ <img src = "https://user-images.githubusercontent.com/90328117/162206714-afa69662-60d4-4630-9331-5331447b0d57.jpg" style = "width:300px;height:200px;" > <img src = "https://user-images.githubusercontent.com/90328117/163391375-cdb75d6c-3ff9-4983-8465-5e3838fca36b.jpg" style = "width:300px;height:200px;" > <img src = "https://user-images.githubusercontent.com/90328117/163392612-1ea4a8ca-5db8-4f5e-8373-00a28419b97b.jpg" style = "width:300px;height:200px;" >
+
+
  
  # :rocket: Metodologia Utilizada
  
