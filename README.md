@@ -12,6 +12,23 @@
   
 </div>
 
+
+# <p align="left"> Card Sprint 1 </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/166927995-6981eaf7-526b-4a38-944a-09932b77e0d1.png"  style = "width: 500px;height:350px;">
+</div> 
+
+
+# <p align="left"> Gráfico Burndown </p>
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/166934215-a3600a38-85ae-4eea-968b-a14aded27cf6.PNG">
+</div> 
+
+
+
+
+
 # :page_facing_up: Menu Cliente e Projeto
 
 #### <p align="center"> Menu Cliente </p>
