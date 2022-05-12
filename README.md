@@ -88,7 +88,7 @@ Este projeto está sob a licença MIT - veja o arquivo [Licença](https://github
  # :bulb: Backlog
  
 <div align = "center"> 
-<img src = "https://user-images.githubusercontent.com/90328117/161347535-89d1b038-6435-4d3c-b155-bfbb964a7ce0.jpeg">
+<img src = "https://user-images.githubusercontent.com/90328117/168089304-daf04088-2768-4d9f-89de-01b3167ec300.jpeg">
 </div>
 
 # 🎓 Equipe
