@@ -65,7 +65,8 @@ Este sistema é voltado para desktop. </p>
  
  # 🗂️ Cards das Sprints
  
- <img src = "https://user-images.githubusercontent.com/90328117/162206714-afa69662-60d4-4630-9331-5331447b0d57.jpg" style = "width:300px;height:200px;" > <img src = "https://user-images.githubusercontent.com/90328117/163391375-cdb75d6c-3ff9-4983-8465-5e3838fca36b.jpg" style = "width:300px;height:200px;" > <img src = "https://user-images.githubusercontent.com/90328117/163392612-1ea4a8ca-5db8-4f5e-8373-00a28419b97b.jpg" style = "width:300px;height:200px;" >
+ <img src = "https://user-images.githubusercontent.com/90328117/168455866-fb91616b-1be5-48a6-8c9e-befbde12fd3b.png" style = "width:300px;height:200px;" > <img src = "https://user-images.githubusercontent.com/90328117/168455894-aed9d710-59aa-460e-84bf-b75fb4a802e8.png" style = "width:300px;height:200px;" > <img src = "https://user-images.githubusercontent.com/90328117/163392612-1ea4a8ca-5db8-4f5e-8373-00a28419b97b.jpg" style = "width:300px;height:200px;" >
+
 
 
  
