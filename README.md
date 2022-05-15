@@ -1,110 +1,117 @@
+##### <p align="center"> Seja bem vindo a Branch da 2ºSprint </p>
+
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/90328117/161254359-c6392c85-9f18-4993-9dbf-f1057c8d5a83.png"
- style="width:100px;height:100px;">
+<img src = "https://user-images.githubusercontent.com/90328117/163393929-03d3c353-5850-49c0-8327-5fa2aed4ff34.png" style = "width:400px;height:100px;">
 </div>
 
-##### <p align="center"> Projeto Integrador - Equipe 5 </p>
+#### <p align="center"> Este projeto está dividido por Branches, acesse o repositório com as informações do projeto: </p>
 
-##### <p align="center">  Empresa parceira: </p>
- 
-<div align = "center"> 
-<img src = "https://user-images.githubusercontent.com/90328117/161287794-f8544e7b-9d3f-453c-8fe1-797df48671e9.png"
-style="width:400px;height:50px;">
+<div align = "center">
+  
+[Saiba mais](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md)
+  
 </div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# <p align="left"> Card Sprint 2 </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/168453119-1bc85898-2f57-43bd-9cbc-6e72c6a1df58.jpg" style = "width: 500px;height:350px;">
+</div> 
 
 
-<div align="center">
- 
-[O Projeto](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#dart-o-projeto) • [Proposta](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#clipboard-proposta) • [Planejamento](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#-planejamento-de-entregas) • [Cards](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#%EF%B8%8F-cards-das-sprints) • [Metodologia](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#rocket-metodologia-utilizada) • [Tecnologia](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#computer-tecnologias-utilizadas) • [Backlog](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#bulb-backlog) • [Equipe](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/README.md#-equipe)
-</div>
-
-<div align = "center"> 
-<img src = "https://user-images.githubusercontent.com/90328117/161295255-ca813f68-0ba2-488f-b5ef-7160d57a1cd7.jpg"> 
-<img src = "https://user-images.githubusercontent.com/90328117/161297030-d40b426b-ba7e-4071-81a3-f723b5a607b6.jpg">
-</div>
-
-<h4 align="center"> 
-	🚧  🚀Projeto em construção...  🚧
-</h4>
-
-# :dart: O Projeto
-
-<p align="left"> Este projeto consiste em criar um sistema que melhore a comunicação entre a empresa e o cliente, 
-de forma com que as mensagens possam ser registradas de diferentes fontes. 
-Este sistema é voltado para desktop. </p>
-
-# :clipboard: Proposta
-
-<p align="left"> Criar um sistema de envio e recebimento de mensagens. Com o cadastro do cliente no sistema, ficará mais fácil a visualização de suas informações pela empresa. </p>
-
-#### Pré-requisitos:
-
-<p align="left"> :white_check_mark: Cadastro de clientes, usuários e grupos.</p>
-<p align="left"> :white_check_mark: Diferentes perfis (ADM/Suporte/Cliente).</p>
-<p align="left"> :white_large_square: ADM/Suporte cadastrar de qual meio de comunicação veio a mensagem.</p>
-<p align="left"> :white_large_square: Envio de mensagem.</p>
-<p align="left"> :white_large_square: Relatório de mensagens de pessoas ou grupos.</p>
-
-<Div align="left">
-
-## ⏳ Planejamento de entregas
- 
- </Div>
- 
- 
-
- :white_large_square: [SPRINT 1](https://github.com/FATEC0SJC/Pro4System/tree/Desenvolvimento-Sprint-1) - 24/03/2022 a 14/04/2022
-
- :white_large_square: [SPRINT 2](https://github.com/FATEC0SJC/Pro4System/tree/Sprints/Sprint%202) - 25/04/2022 a 15/05/2022
- 
- :white_large_square: [SPRINT 3](https://github.com/FATEC0SJC/Pro4System/tree/Sprints/Sprint%203) - 16/05/2022 a 05/06/2022
- 
- #### :white_large_square: Feira de Soluções - 15/06/2022
- 
- # 🗂️ Cards das Sprints
- 
- <img src = "https://user-images.githubusercontent.com/90328117/162206714-afa69662-60d4-4630-9331-5331447b0d57.jpg" style = "width:300px;height:200px;" > <img src = "https://user-images.githubusercontent.com/90328117/163391375-cdb75d6c-3ff9-4983-8465-5e3838fca36b.jpg" style = "width:300px;height:200px;" > <img src = "https://user-images.githubusercontent.com/90328117/163392612-1ea4a8ca-5db8-4f5e-8373-00a28419b97b.jpg" style = "width:300px;height:200px;" >
+# <p align="left"> Gráfico Burndown </p>
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/168453196-201ff240-e528-4f82-b486-9e1a65e670e5.PNG">
+</div> 
 
 
- 
- # :rocket: Metodologia Utilizada
- 
- • Metodologia ágil: Framework [Scrum](https://blog.geekhunter.com.br/framework-scrum-voce-esta-usando-corretamente/)
- 
-# :computer: Tecnologias Utilizadas
 
-#### • Banco de Dados: MySQL
-#### • Back-end: Java   
-#### • Front-end: Java
-#### • Ferramentas Usadas: MySQL Workbench, Apache NetBeans, GitHub, Drwa.io
 
-# :page_facing_up: Licença MIT
 
-Este projeto está sob a licença MIT - veja o arquivo [Licença](https://github.com/FATEC0SJC/Pro4System/blob/Sprints/LICENSE) para mais detalhes.
- 
- # :bulb: Backlog
- 
-<div align = "center"> 
-<img src = "https://user-images.githubusercontent.com/90328117/168089304-daf04088-2768-4d9f-89de-01b3167ec300.jpeg">
-</div>
+# :page_facing_up: Sistema de Login
 
-# 🎓 Equipe
+#### <p align="center"> Menu Cliente </p>
 
-|        Nome         |       Função        |     GitHub                                               |    Avatar                                          |
-| ------------------- | ------------------- | -------------------                                      | -------------------                                |
-|  Wallace Marinho    |  Scrum Master       |<a href="https://github.com/WallaceMarinho"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |           <img src="https://user-images.githubusercontent.com/90328117/161355071-f46bfe3f-08f6-4de4-815e-36c2361c60be.png" style="width:50px;height:50px;">                                         |
-|  Rita Hecht         |  P.O.               |<a href="https://github.com/Rhfp2104"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |           <img src="https://user-images.githubusercontent.com/90328117/168085416-fec32d63-7a77-458f-bda8-0cab09491091.jpg" style="width:50px;height:50px;">  |
-|  Rodrigo Goulart    |  Desenvolvedor      |<a href="https://github.com/RodrigoDGoulart"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                                            |<img src="https://user-images.githubusercontent.com/90328117/161354565-ec25a1b6-89de-41de-bc63-30ea40873642.png" style="width:50px;height:50px;">                                                     |
-|  Vitor landim       |  Desenvolvedor      |<a href="https://github.com/Rotiv03"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |                       <img src="https://user-images.githubusercontent.com/90328117/161354783-566b48cc-9f3b-40e0-9fff-edccd3f9fabe.png" style="width:50px;height:50px;">                             |
-|  William Claudimar  |  Desenvolvedor      | <a href="https://github.com/William2819"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                         | <img src="https://user-images.githubusercontent.com/90328117/161353752-d288d41b-e36b-4bb4-9edc-55b23d10067e.png" style="width:50px;height:50px;">
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/168454428-8569df63-4eef-47c2-94cf-1d9fbff3d587.gif"  style = "width: 500px;height:350px;">
+  </div>
+  
+#### <p align="center"> Menu Projeto </p>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163459077-52396b4c-441e-495f-986f-f94bc1d86148.gif" style = "width: 500px;height:350px;">
+  </div>
 
-<div align="center">
-	<img src="https://user-images.githubusercontent.com/90328117/161355339-d016f60b-e185-49da-a5de-6c21f1965449.png" style="width:300px;height:100px;">
-	</div>
+
+# :computer: Cadastro de Projeto e Cliente
+
+#### <p align="center"> Cadastrando Cliente </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163452907-b6cebde6-b094-4ad4-a554-104b357f2ce0.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+#### <p align="center"> Cadastrando Projeto </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163454761-6e58c5de-145b-477f-b992-d9f6022dd1af.gif" style = "width: 500px;height:350px;">
+  </div>
+
+# :mag: Consultar Projeto e Cliente
+
+#### <p align="center"> Consultar Cliente </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163455347-51cde86e-7e22-46ec-b739-ece9c120f526.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+#### <p align="center"> Consultar Projeto </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163455435-23eccf66-5586-4658-9b68-26933156efc7.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+  
+# :speech_balloon: Mensagem
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163456523-e88bf81f-f49e-4fe4-a5af-19a8034271c5.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+# :no_entry_sign: Deletar Projeto e Cliente
+
+#### <p align="center"> Deletar Cliente </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163457378-5c41e022-0a73-4e23-9b73-673f8e79546e.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+#### <p align="center"> Deletar Projeto </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163457435-f4d52e64-32ec-413f-8144-f9f1320bcf92.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+# :pencil2: Editar Projeto e Cliente
+
+#### <p align="center"> Editar Cliente </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163458382-2c3f2445-cc67-4c5b-bbed-f7f180fb1d76.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+#### <p align="center"> Editar Projeto </p>
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/163458460-50673696-0f6e-4961-b20f-757b4b88633e.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+
+
+
+
+
 
  
  
