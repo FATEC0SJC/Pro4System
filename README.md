@@ -1,4 +1,4 @@
-##### <p align="center"> Seja bem vindo a Branch de Desenvolvimento </p>
+##### <p align="center"> Seja bem vindo a Branch da 1ºSprint </p>
 
 <div align = "center">
 <img src = "https://user-images.githubusercontent.com/90328117/163393929-03d3c353-5850-49c0-8327-5fa2aed4ff34.png" style = "width:400px;height:100px;">
