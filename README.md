@@ -57,7 +57,7 @@ Este sistema é voltado para desktop. </p>
 
  :white_large_square: [SPRINT 1](https://github.com/FATEC0SJC/Pro4System/tree/Desenvolvimento-Sprint-1) - 24/03/2022 a 14/04/2022
 
- :white_large_square: [SPRINT 2](https://github.com/FATEC0SJC/Pro4System/tree/Sprints/Sprint%202) - 25/04/2022 a 15/05/2022
+ :white_large_square: [SPRINT 2](https://github.com/FATEC0SJC/Pro4System/blob/Sprint-2/README.md) - 25/04/2022 a 15/05/2022
  
  :white_large_square: [SPRINT 3](https://github.com/FATEC0SJC/Pro4System/tree/Sprints/Sprint%203) - 16/05/2022 a 05/06/2022
  
