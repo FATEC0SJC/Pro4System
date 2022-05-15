@@ -16,7 +16,7 @@
 # <p align="left"> Card Sprint 1 </p>
 
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/90328117/166927995-6981eaf7-526b-4a38-944a-09932b77e0d1.png"  style = "width: 500px;height:350px;">
+<img src = "https://user-images.githubusercontent.com/90328117/168455791-3ca88535-d667-40cb-801e-227060e74d5a.png" style = "width: 500px;height:350px;">
 </div> 
 
 
