@@ -55,15 +55,18 @@
 
 
 
+# Cadastro de Usuários 
 
-
-# :computer: Cadastro de Usuários 
-
-
-
-# :mag: Relatório de Mensagens
-
-
+#### <p align="center"> Cadastro de Uma Conta </p>
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/168480272-2fb012f5-211c-4995-8b60-c48780f0a7ed.gif" style = "width: 500px;height:350px;">
+  </div>
+  
+  
+  #### <p align="center"> Cadastro de Usuários a um Projeto </p>
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/90328117/168480604-b48021e8-e870-406e-9038-6d33ae33c145.gif" style = "width: 500px;height:350px;">
+  </div>
   
   
 # Perfil de usuários
@@ -95,7 +98,10 @@
 <img src = "https://user-images.githubusercontent.com/90328117/168455106-bcbfbcb9-4e4d-4795-8696-735af39ea93c.gif" style = "width: 500px;height:350px;">
   </div>
   
-
+#### <p align="center"> Relatório de Mensagens Enviadas </p>
+<div align = "center">
+<img src =  "https://user-images.githubusercontent.com/90328117/168480440-0077976e-c56b-4105-86d2-e2c1f4041337.gif" style = "width: 500px;height:350px;">
+  </div>
   
 
 
