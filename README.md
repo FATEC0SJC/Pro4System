@@ -71,8 +71,7 @@
 #### <p align="center"> Criação de um relatório </p>
 
 <div align = "center">
-<img src = "
-https://user-images.githubusercontent.com/90328117/172086992-a8423614-73bd-44cf-9f48-f9a12d5532fb.gif"  style = "width: 500px;height:350px;">
+<img src = "https://user-images.githubusercontent.com/90328117/172086992-a8423614-73bd-44cf-9f48-f9a12d5532fb.gif"  style = "width: 500px;height:350px;">
 </div>
 
 
